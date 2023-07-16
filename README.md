@@ -33,7 +33,7 @@ This repository contains a simple calculator web application implemented using H
 
 To use the calculator locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/073krishna2001/Calculator_for_InternPe.git`
+1. Clone the repository: `git clone https://github.com/shinde24/Internpe_Task_Calculator'
 2. Navigate to the project directory: `cd Calculator_for_InternPe`
 3. Open the `index.html` file in your preferred web browser.
 
